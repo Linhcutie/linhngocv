@@ -30,19 +30,19 @@ body{
 
 .container .left_Side{
     position: relative;
-    background: #003147;
+    background: #fff;
     padding: 40px;
     
 }
 
 h1{
-    color: #fff;
+    color: lightskyblue;
     position: fixed;
 }
 
 .container .right_Side{
     position: relative;
-    background: #fff;
+    background: #003147;
     padding: 40px;
 }
 
