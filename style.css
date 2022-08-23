@@ -32,6 +32,12 @@ body{
     position: relative;
     background: #003147;
     padding: 40px;
+    
+}
+
+h1{
+    color: #fff;
+    position: fixed;
 }
 
 .container .right_Side{
